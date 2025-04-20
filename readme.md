@@ -20,9 +20,8 @@ This Python script automates the process of booking movie tickets on BookMyShow.
 
 ## Prerequisites
 
-* **Python 3.x:** Download from [python.org](https://www.python.org/)
+* **Python 3.13:** 
 * **Google Chrome or Chromium:** The script uses `undetected-chromedriver`. Ensure you have a compatible browser installed.
-* **PIP:** Python package installer (usually comes with Python).
 
 ## Setup & Installation
 
@@ -31,11 +30,9 @@ This Python script automates the process of booking movie tickets on BookMyShow.
     git clone https://github.com/NachiketGadekar1/Selenium-bookmyshow-automator
     ```
 2.  **Install Dependencies:**
-    Make sure you have your `requirements.txt` file in the project directory. Then run:
     ```bash
     pip install -r requirements.txt
     ```
-    *(This assumes your `requirements.txt` includes `undetected-chromedriver`, `selenium`, etc.)*
 
 3.  **Browser & WebDriver:**
     * `undetected-chromedriver` attempts to automatically download the correct ChromeDriver version matching your installed Chrome/Chromium browser.
