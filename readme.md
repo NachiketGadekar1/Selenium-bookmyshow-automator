@@ -28,8 +28,7 @@ This Python script automates the process of booking movie tickets on BookMyShow.
 
 1.  **Clone the Repository (Optional):**
     ```bash
-    git clone <your-repository-url>
-    cd <your-project-directory>
+    git clone https://github.com/NachiketGadekar1/Selenium-bookmyshow-automator
     ```
 2.  **Install Dependencies:**
     Make sure you have your `requirements.txt` file in the project directory. Then run:
