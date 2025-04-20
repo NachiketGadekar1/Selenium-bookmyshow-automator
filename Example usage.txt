@@ -1,0 +1,13 @@
+EXAMPLE USAGE:
+
+--- BookMyShow Bot ---
+Enter location slug: mumbai
+Enter movie code: ET00416952
+Enter date (MMM DD, e.g., APR 20): APR 21
+Enter EXACT theatre name: Cinepolis: Nexus Seawoods, Navi Mumbai
+Enter EARLIEST showtime (HH:MM AM/PM or HH:MM): 9:30 AM
+Enter LATEST showtime (HH:MM AM/PM or HH:MM): 10:25 PM
+Enter number of seats (1-10): 3
+Enter your 10-digit mobile number: 9123456789
+Enter your UPI username (the part before '@'): randomid123
+Enter your UPI handle (the part after '@', e.g., okhdfcbank, ybl, axl): axl
